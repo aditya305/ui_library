@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_quill/flutter_quill.dart';
 import 'package:ui_library/styles/styles.dart';
 import 'package:ui_library/widgets/custom_circular_button_widget.dart';
 
 class CustomCreateNote extends StatelessWidget {
-  final QuillController _controller = QuillController.basic();
-
   CustomCreateNote({super.key});
 
   @override
