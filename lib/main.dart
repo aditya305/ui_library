@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:ui_library/main_page.dart';
 import 'package:ui_library/router.dart';
 import 'package:ui_library/styles/styles.dart';
-import 'package:ui_library/ui/ui.dart';
 
 void main() {
   runApp(const MyApp());
@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.dark,
       onGenerateRoute: AppRouter.generateRoute,
       initialRoute: AppRouter.home,
-      home: SampleOne(),
+      home: MainPage(),
     );
   }
 }
