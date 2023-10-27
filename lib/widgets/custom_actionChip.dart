@@ -26,7 +26,7 @@ class CustomActionChip extends StatelessWidget {
     return ActionChip(
       label: Center(child: label),
       onPressed: onPressed,
-      backgroundColor: selected ? CustomColors.grayBase : backgroundColor,
+      backgroundColor: selected ? CustomColors.darkGray : backgroundColor,
       labelStyle: Theme.of(context).textTheme.titleMedium!.copyWith(
             color: selected ? Colors.white : labelColor,
           ),
