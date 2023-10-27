@@ -32,7 +32,9 @@ class _SampleOneState extends State<SampleOne> {
                 children: [
                   CustomCircleButton(
                     onClickPressed: () {},
-                    iconData: Icons.drag_handle,
+                    size: 70.0,
+                    iconData: Icons.workspaces,
+                    iconSize: 30.0,
                     iconColor: CustomColors.base,
                   ),
                   Text(
