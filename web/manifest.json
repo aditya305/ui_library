@@ -1,11 +1,11 @@
 {
-    "name": "ui_library",
-    "short_name": "ui_library",
+    "name": "ui_lib",
+    "short_name": "ui_lib",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Brewnbeer UI liberary",
+    "description": "A showcase application featuring a wide range of Flutter widgets, designed to demonstrate their functionality, usage, and customization options for building modern, responsive mobile apps.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

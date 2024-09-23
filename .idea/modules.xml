@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ui_library.iml" filepath="$PROJECT_DIR$/ui_library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/ui_library_android.iml" filepath="$PROJECT_DIR$/android/ui_library_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui_lib.iml" filepath="$PROJECT_DIR$/ui_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ui_lib_android.iml" filepath="$PROJECT_DIR$/android/ui_lib_android.iml" />
     </modules>
   </component>
 </project>
